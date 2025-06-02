@@ -1,6 +1,3 @@
-Sure! Below is the **Markdown-formatted version** of the entire `README.md` content. You can copy and paste this directly into your GitHub repository:
-
-````markdown
 # AppleTweetSentiment
 
 ### 🧠 NLP-Powered Sentiment Analysis on Tweets about Apple Products
@@ -109,7 +106,7 @@ The dataset used includes tweets mentioning various Apple products and their cor
 
 Have questions or suggestions? Feel free to:
 
-- Open an [issue](https://github.com/Cyrus-DS/YourRepositoryName/issues)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- Visit my [GitHub profile](https://github.com/YourGitHubUsername) for more projects
+- Open an [issue](https://github.com/Cyrus-DS/Apple_Twitter_Sentiment_NLP_Phase-4/issues)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/cyrus-wambugu-b9476195/)
+- Visit my [GitHub profile](https://github.com/Cyrus-DS) for more projects
 
