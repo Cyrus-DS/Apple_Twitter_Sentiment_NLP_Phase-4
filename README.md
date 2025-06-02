@@ -1,4 +1,4 @@
-# AppleTweetSentiment
+# Apple Tweet Sentiment
 
 ### 🧠 NLP-Powered Sentiment Analysis on Tweets about Apple Products
 
